@@ -1,15 +1,15 @@
 {
   "id": "veo-uniwebsocket",
   "displayName": "veo-uniwebsocket",
-  "version": "1.0.2",
-  "description": "veo-uniwebsocket",
+  "version": "1.0.3",
+  "description": "uniapp 的 connectSocket 封装，包含自动心跳，断线重连，消息重发，网络状态监听等功能",
   "keywords": [
     "uniwebsocket",
     "websocket",
     "socket",
     "uniapp"
 ],
-  "repository": "",
+  "repository": "https://github.com/jijacky/veo-uniwebsocket.git",
   "engines": {
     "HBuilderX": "^3.2.15"
   },
